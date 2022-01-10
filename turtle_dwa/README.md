@@ -1,4 +1,5 @@
-# ROS_Project_2
+## 실습2 : 오픈소스예제 ROS 패키지화
+
 
 ```
 ros2 run turtlesim turtlesim_node
